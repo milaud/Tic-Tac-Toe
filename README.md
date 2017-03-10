@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Two player GUI based 3x3 Tic-Tac-Toe Game.
+One-Two player GUI based Tic-Tac-Toe Game.
